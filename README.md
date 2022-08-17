@@ -1,6 +1,16 @@
 # dsapozhnikov76_microservices
 dsapozhnikov76 microservices repository
 
+## Docker-4
+
+1. Скачал оригинальный docker-compose.yml, запустил билд контейнеров
+2. Изменил docker-compose.yml под использования 2-х сетей
+3. Создал .env записав туда параметризованные параметры
+4. При запуске docker-compose использует имя каталога как базовое имя проекта,
+с помощью флага -p можно его изменить, например:
+
+    ``docker-compose -p docker4 up -d``
+
 ## Docker-3
 
 1. Скопировал исходники Dockerfile в целевые файлы
