@@ -1,6 +1,17 @@
 # dsapozhnikov76_microservices
 dsapozhnikov76 microservices repository
 
+## GitLab-ci-1
+
+
+1. создана ВМ через cli yandex
+2. настроен GitLab(получен пароль root; закрыта регистрация)
+3. добавлен Reddit в проект 
+4. поставлен раннер 
+5. добавлена зависимость от тегов для production и stage 
+6. добавлены динамические окружения
+
+
 ## Docker-4
 
 1. Скачал оригинальный docker-compose.yml, запустил билд контейнеров
