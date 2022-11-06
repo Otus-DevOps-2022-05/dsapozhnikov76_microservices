@@ -2,7 +2,9 @@
 dsapozhnikov76 microservices repository
 
 ## Monitoring-1
-
+Выполнены все пунктиы основного задания. 
+ 
+Ссылки на образы: https://hub.docker.com/u/dsapozhnikov76
 ## GitLab-ci-1
 
 1. создана ВМ через cli yandex
